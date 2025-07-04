@@ -59,7 +59,7 @@ Estos archivos contienen información mensual desde 2003 en adelante, desglosada
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/forecast-chilean-copper-exports.git```
+   git clone https://github.com/tu-usuario/forecast-chilean-copper-exports.git
 
 2. Descarga el archivo Excel desde el sitio oficial de COCHILCO y guárdalo en data/raw/.
 
